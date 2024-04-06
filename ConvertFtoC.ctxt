@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ConvertFtoC
+comment1.params=
+comment1.target=ConvertFtoC()
+comment2.params=ae
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ @param\ args\ the\ command\ line\ arguments\r\n
+numComments=4
